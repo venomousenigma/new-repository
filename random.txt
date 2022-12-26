@@ -1,7 +1,0 @@
-this is a random text file
-
-this now contains a new line
-
-another now
-"this piece of code is not sure to be added so this change will be saved to a new branch"
-thank you
