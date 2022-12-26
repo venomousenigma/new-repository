@@ -1,7 +1,0 @@
-this is a random text file
-
-this now contains a new line
-
-another now
-
-thank you
